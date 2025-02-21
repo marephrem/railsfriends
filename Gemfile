@@ -19,7 +19,7 @@ end
 
 group :development do
   gem 'web-console', '>= 3.3.0'
-  gem 'sqlite3', '~> 1.4'
+  gem 'sqlite3', '~> 2.6'
 end
 
 group :production do
